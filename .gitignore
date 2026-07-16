@@ -1,0 +1,14 @@
+# Environment variables and secrets
+.env
+secrets.h
+
+# PlatformIO / ESP32 build artifacts
+.pio/
+build/
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
